@@ -9,9 +9,9 @@ Pour écrire un système de fichiers simple de type Linux, vous devez d'abord co
 Le plan global du système de fichiers est le suivant :  
 ![](./screenshots/00.png)
 
-由于写程序的时候时间比较紧张，只写了4天就去验收，所以代码没来得及优化，有的地方会显得冗余，大家不要见怪。
+Parce que le temps est serré lors de l'écriture du programme, il n'a fallu que 4 jours pour vérifier et accepter le code, donc le code n'a pas eu le temps de s'optimiser, et certaines parties semblaient redondantes.Ne soyez pas surpris.
 
-Bien que le temps soit limité, il implémente également la fonction d'un éditeur vi. L'écriture est relativement simple et le code est brouillon. Il est temps de l'améliorer.
+Bien que le temps soit limité, une fonction supplémentaire d'éditeur de vi a été implémentée. L'écriture est relativement simple et le code est brouillon. Il est temps de l'améliorer.
 
 En général, le code n'a pas encore été optimisé, et plus de commentaires sont les bienvenus, et plus de défauts sont relevés.
 
