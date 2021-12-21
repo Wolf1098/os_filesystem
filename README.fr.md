@@ -1,4 +1,4 @@
-# os_filesystem-un système de fichiers virtuel (C++)
+# os_filesystem - 一个虚拟文件系统（C++）
 
 ## introduction
 
@@ -11,7 +11,7 @@ Le plan global du système de fichiers est le suivant :
 
 Parce que le temps est serré lors de l'écriture du programme, il n'a fallu que 4 jours pour vérifier et accepter le code, donc le code n'a pas eu le temps de s'optimiser, et certaines parties semblaient redondantes.Ne soyez pas surpris.
 
-Bien que le temps soit limité, une fonction supplémentaire d'éditeur de vi a été implémentée. L'écriture est relativement simple et le code est brouillon. Il est temps de l'améliorer.
+Bien que le temps soit limité, il implémente également la fonction d'un éditeur vi. L'écriture est relativement simple et le code est brouillon. Il est temps de l'améliorer.
 
 En général, le code n'a pas encore été optimisé, et plus de commentaires sont les bienvenus, et plus de défauts sont relevés.
 
@@ -21,7 +21,7 @@ En général, le code n'a pas encore été optimisé, et plus de commentaires so
 
 `git clone https://github.com/windcode/os_filesystem.git`
 
-### Étape 2 : Ouvrez le projet avec VC++6.0
+### step 2：用VC++6.0打开项目
 
 Double-cliquez dans le catalogue**MingOS.dsw**Fichier, ou faites glisser le fichier vers l'interface VC++6.0.
 
